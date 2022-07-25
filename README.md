@@ -1,2 +1,2 @@
 # Franchise_Numbers_2022
-Analysis for a large franchise based in the US.
+Analysis of the performance between a large franchise based in the US and their third party contact center.
